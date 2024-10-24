@@ -1,5 +1,4 @@
-#User function Template for python3
-
+#Emmy'sjanak
 def findMaxSum(arr, n):
     incl = 0
     excl = 0

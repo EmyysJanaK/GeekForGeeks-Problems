@@ -1,8 +1,5 @@
-#User function Template for python3
-
-
+#Emmy'sjanak
 class Solution:    
-    #Function to find all elements in array that appear more than n/k times.
     def countOccurence(arr, n, k):
         counts = {}
         for element in arr:

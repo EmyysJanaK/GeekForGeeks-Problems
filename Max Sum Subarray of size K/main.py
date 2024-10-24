@@ -1,4 +1,4 @@
-#User function Template for python3
+#Emmy'sjanak
 class Solution:
     def maximumSumSubarray (self,K,Arr,N):
         # code here 
