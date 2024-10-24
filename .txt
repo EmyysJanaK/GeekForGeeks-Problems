@@ -1,0 +1,31 @@
+class  Vendor {
+    Icecream icecream;
+    String Candy;
+
+    void  ()
+}
+
+class Child {
+    private  coins;
+
+
+
+
+}
+
+class Icecream extends {
+    String chocolate;
+    String Vanila;
+
+    void Addon(){
+        //chocolate function
+    }
+
+}
+
+class Topping{
+    String Peanut;
+    String Whipped cream;
+    String Hard chocolate;
+
+}
